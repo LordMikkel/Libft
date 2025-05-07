@@ -1,4 +1,4 @@
-# Libft: C From Scratch 🛠️ ![alt text](image.png)
+# Libft: C From Scratch 🛠️ ![alt text](image/score.png)
 
 Libft is a foundational project where I recreated from scratch a series of essential functions in C. This exercise not only helped me understand how the tools I use daily work but also master key concepts like memory management, string manipulation, and data structure creation.
 
@@ -126,7 +126,7 @@ int main(void)
 
 I used [francinette-image](https://github.com/WaRtr0/francinette-image) to test this project in all possible modes. It runs four tests, and if you pass all of them, you can try the --strict mode, which I found the most useful for improving memory leaks and handling edge cases.
 
-![alt text](.tests.png)
+![alt text](image/.tests.png)
 
 
 ## Conclusion 🎯
