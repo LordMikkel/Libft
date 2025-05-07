@@ -1,4 +1,4 @@
-# Libft: C From Scratch 🛠️
+# Libft: C From Scratch 🛠️ ![alt text](image.png)
 
 Libft is a foundational project where I recreated from scratch a series of essential functions in C. This exercise not only helped me understand how the tools I use daily work but also master key concepts like memory management, string manipulation, and data structure creation.
 
