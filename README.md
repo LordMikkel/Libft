@@ -1,7 +1,7 @@
 # Libft: C From Scratch 🛠️
 
 
-<p align="center"> <img src="image/score.png" alt="alt text" /> </p>
+<p align="center"> <img src="image/.score.png" alt="alt text" /> </p>
 
 Libft is a foundational project where I recreated from scratch a series of essential functions in C. This exercise not only helped me understand how the tools I use daily work but also master key concepts like memory management, string manipulation, and data structure creation.
 
